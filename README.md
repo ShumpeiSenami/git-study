@@ -1,8 +1,8 @@
 # Gitの勉強
 - git add コマンドで、リポジトリに変更情報を追加する
     - このことをステージングと言う
-      - git add ${ファイル名}
+    - git add ${ファイル名}
 - git commit コマンドで、リポジトリのインデックスに追加された変更情報にコメントを付けてコミットする
-      - git commit -m "&{コミットのタイトル名}"
+    - git commit -m "&{コミットのタイトル名}"
 - git push コマンドで、ローカルのコミットをリモートのリポジトリに反映されることができる
-      - git push origin master
+    - git push origin master
